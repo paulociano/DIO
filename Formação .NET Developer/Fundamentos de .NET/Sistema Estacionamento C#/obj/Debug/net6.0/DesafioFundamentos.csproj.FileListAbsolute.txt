@@ -1,0 +1,15 @@
+C:\Users\WIN10\Desktop\DIO\Formação .NET Developer\Fundamentos de .NET\Sistema Estacionamento C#\bin\Debug\net6.0\DesafioFundamentos.exe
+C:\Users\WIN10\Desktop\DIO\Formação .NET Developer\Fundamentos de .NET\Sistema Estacionamento C#\bin\Debug\net6.0\DesafioFundamentos.deps.json
+C:\Users\WIN10\Desktop\DIO\Formação .NET Developer\Fundamentos de .NET\Sistema Estacionamento C#\bin\Debug\net6.0\DesafioFundamentos.runtimeconfig.json
+C:\Users\WIN10\Desktop\DIO\Formação .NET Developer\Fundamentos de .NET\Sistema Estacionamento C#\bin\Debug\net6.0\DesafioFundamentos.dll
+C:\Users\WIN10\Desktop\DIO\Formação .NET Developer\Fundamentos de .NET\Sistema Estacionamento C#\bin\Debug\net6.0\ref\DesafioFundamentos.dll
+C:\Users\WIN10\Desktop\DIO\Formação .NET Developer\Fundamentos de .NET\Sistema Estacionamento C#\bin\Debug\net6.0\DesafioFundamentos.pdb
+C:\Users\WIN10\Desktop\DIO\Formação .NET Developer\Fundamentos de .NET\Sistema Estacionamento C#\obj\Debug\net6.0\DesafioFundamentos.csproj.AssemblyReference.cache
+C:\Users\WIN10\Desktop\DIO\Formação .NET Developer\Fundamentos de .NET\Sistema Estacionamento C#\obj\Debug\net6.0\DesafioFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WIN10\Desktop\DIO\Formação .NET Developer\Fundamentos de .NET\Sistema Estacionamento C#\obj\Debug\net6.0\DesafioFundamentos.AssemblyInfoInputs.cache
+C:\Users\WIN10\Desktop\DIO\Formação .NET Developer\Fundamentos de .NET\Sistema Estacionamento C#\obj\Debug\net6.0\DesafioFundamentos.AssemblyInfo.cs
+C:\Users\WIN10\Desktop\DIO\Formação .NET Developer\Fundamentos de .NET\Sistema Estacionamento C#\obj\Debug\net6.0\DesafioFundamentos.csproj.CoreCompileInputs.cache
+C:\Users\WIN10\Desktop\DIO\Formação .NET Developer\Fundamentos de .NET\Sistema Estacionamento C#\obj\Debug\net6.0\DesafioFundamentos.dll
+C:\Users\WIN10\Desktop\DIO\Formação .NET Developer\Fundamentos de .NET\Sistema Estacionamento C#\obj\Debug\net6.0\ref\DesafioFundamentos.dll
+C:\Users\WIN10\Desktop\DIO\Formação .NET Developer\Fundamentos de .NET\Sistema Estacionamento C#\obj\Debug\net6.0\DesafioFundamentos.pdb
+C:\Users\WIN10\Desktop\DIO\Formação .NET Developer\Fundamentos de .NET\Sistema Estacionamento C#\obj\Debug\net6.0\DesafioFundamentos.genruntimeconfig.cache
