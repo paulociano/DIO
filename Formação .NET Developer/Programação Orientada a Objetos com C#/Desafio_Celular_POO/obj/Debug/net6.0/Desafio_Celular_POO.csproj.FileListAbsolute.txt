@@ -1,0 +1,15 @@
+C:\Users\WIN10\Desktop\DIO\Formação .NET Developer\Programação Orientada a Objetos com C#\Desafio_Celular_POO\bin\Debug\net6.0\Desafio_Celular_POO.exe
+C:\Users\WIN10\Desktop\DIO\Formação .NET Developer\Programação Orientada a Objetos com C#\Desafio_Celular_POO\bin\Debug\net6.0\Desafio_Celular_POO.deps.json
+C:\Users\WIN10\Desktop\DIO\Formação .NET Developer\Programação Orientada a Objetos com C#\Desafio_Celular_POO\bin\Debug\net6.0\Desafio_Celular_POO.runtimeconfig.json
+C:\Users\WIN10\Desktop\DIO\Formação .NET Developer\Programação Orientada a Objetos com C#\Desafio_Celular_POO\bin\Debug\net6.0\Desafio_Celular_POO.dll
+C:\Users\WIN10\Desktop\DIO\Formação .NET Developer\Programação Orientada a Objetos com C#\Desafio_Celular_POO\bin\Debug\net6.0\ref\Desafio_Celular_POO.dll
+C:\Users\WIN10\Desktop\DIO\Formação .NET Developer\Programação Orientada a Objetos com C#\Desafio_Celular_POO\bin\Debug\net6.0\Desafio_Celular_POO.pdb
+C:\Users\WIN10\Desktop\DIO\Formação .NET Developer\Programação Orientada a Objetos com C#\Desafio_Celular_POO\obj\Debug\net6.0\Desafio_Celular_POO.csproj.AssemblyReference.cache
+C:\Users\WIN10\Desktop\DIO\Formação .NET Developer\Programação Orientada a Objetos com C#\Desafio_Celular_POO\obj\Debug\net6.0\Desafio_Celular_POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WIN10\Desktop\DIO\Formação .NET Developer\Programação Orientada a Objetos com C#\Desafio_Celular_POO\obj\Debug\net6.0\Desafio_Celular_POO.AssemblyInfoInputs.cache
+C:\Users\WIN10\Desktop\DIO\Formação .NET Developer\Programação Orientada a Objetos com C#\Desafio_Celular_POO\obj\Debug\net6.0\Desafio_Celular_POO.AssemblyInfo.cs
+C:\Users\WIN10\Desktop\DIO\Formação .NET Developer\Programação Orientada a Objetos com C#\Desafio_Celular_POO\obj\Debug\net6.0\Desafio_Celular_POO.csproj.CoreCompileInputs.cache
+C:\Users\WIN10\Desktop\DIO\Formação .NET Developer\Programação Orientada a Objetos com C#\Desafio_Celular_POO\obj\Debug\net6.0\Desafio_Celular_POO.dll
+C:\Users\WIN10\Desktop\DIO\Formação .NET Developer\Programação Orientada a Objetos com C#\Desafio_Celular_POO\obj\Debug\net6.0\ref\Desafio_Celular_POO.dll
+C:\Users\WIN10\Desktop\DIO\Formação .NET Developer\Programação Orientada a Objetos com C#\Desafio_Celular_POO\obj\Debug\net6.0\Desafio_Celular_POO.pdb
+C:\Users\WIN10\Desktop\DIO\Formação .NET Developer\Programação Orientada a Objetos com C#\Desafio_Celular_POO\obj\Debug\net6.0\Desafio_Celular_POO.genruntimeconfig.cache
