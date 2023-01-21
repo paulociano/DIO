@@ -1,0 +1,15 @@
+C:\Users\WIN10\Desktop\DIO\Formação .NET Developer\Explorando a linguagem C#\Desafio_Sistema_Hotel\obj\Debug\net6.0\Desafio_Sistema_Hotel.csproj.AssemblyReference.cache
+C:\Users\WIN10\Desktop\DIO\Formação .NET Developer\Explorando a linguagem C#\Desafio_Sistema_Hotel\obj\Debug\net6.0\Desafio_Sistema_Hotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WIN10\Desktop\DIO\Formação .NET Developer\Explorando a linguagem C#\Desafio_Sistema_Hotel\obj\Debug\net6.0\Desafio_Sistema_Hotel.AssemblyInfoInputs.cache
+C:\Users\WIN10\Desktop\DIO\Formação .NET Developer\Explorando a linguagem C#\Desafio_Sistema_Hotel\obj\Debug\net6.0\Desafio_Sistema_Hotel.AssemblyInfo.cs
+C:\Users\WIN10\Desktop\DIO\Formação .NET Developer\Explorando a linguagem C#\Desafio_Sistema_Hotel\obj\Debug\net6.0\Desafio_Sistema_Hotel.csproj.CoreCompileInputs.cache
+C:\Users\WIN10\Desktop\DIO\Formação .NET Developer\Explorando a linguagem C#\Desafio_Sistema_Hotel\bin\Debug\net6.0\Desafio_Sistema_Hotel.exe
+C:\Users\WIN10\Desktop\DIO\Formação .NET Developer\Explorando a linguagem C#\Desafio_Sistema_Hotel\bin\Debug\net6.0\Desafio_Sistema_Hotel.deps.json
+C:\Users\WIN10\Desktop\DIO\Formação .NET Developer\Explorando a linguagem C#\Desafio_Sistema_Hotel\bin\Debug\net6.0\Desafio_Sistema_Hotel.runtimeconfig.json
+C:\Users\WIN10\Desktop\DIO\Formação .NET Developer\Explorando a linguagem C#\Desafio_Sistema_Hotel\bin\Debug\net6.0\Desafio_Sistema_Hotel.dll
+C:\Users\WIN10\Desktop\DIO\Formação .NET Developer\Explorando a linguagem C#\Desafio_Sistema_Hotel\bin\Debug\net6.0\ref\Desafio_Sistema_Hotel.dll
+C:\Users\WIN10\Desktop\DIO\Formação .NET Developer\Explorando a linguagem C#\Desafio_Sistema_Hotel\bin\Debug\net6.0\Desafio_Sistema_Hotel.pdb
+C:\Users\WIN10\Desktop\DIO\Formação .NET Developer\Explorando a linguagem C#\Desafio_Sistema_Hotel\obj\Debug\net6.0\Desafio_Sistema_Hotel.dll
+C:\Users\WIN10\Desktop\DIO\Formação .NET Developer\Explorando a linguagem C#\Desafio_Sistema_Hotel\obj\Debug\net6.0\ref\Desafio_Sistema_Hotel.dll
+C:\Users\WIN10\Desktop\DIO\Formação .NET Developer\Explorando a linguagem C#\Desafio_Sistema_Hotel\obj\Debug\net6.0\Desafio_Sistema_Hotel.pdb
+C:\Users\WIN10\Desktop\DIO\Formação .NET Developer\Explorando a linguagem C#\Desafio_Sistema_Hotel\obj\Debug\net6.0\Desafio_Sistema_Hotel.genruntimeconfig.cache

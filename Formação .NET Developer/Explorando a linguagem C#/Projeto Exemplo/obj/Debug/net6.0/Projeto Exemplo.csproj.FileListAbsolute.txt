@@ -1,0 +1,15 @@
+C:\Users\WIN10\Desktop\DIO\Formação .NET Developer\Explorando a linguagem C#\Projeto Exemplo\bin\Debug\net6.0\Projeto Exemplo.exe
+C:\Users\WIN10\Desktop\DIO\Formação .NET Developer\Explorando a linguagem C#\Projeto Exemplo\bin\Debug\net6.0\Projeto Exemplo.deps.json
+C:\Users\WIN10\Desktop\DIO\Formação .NET Developer\Explorando a linguagem C#\Projeto Exemplo\bin\Debug\net6.0\Projeto Exemplo.runtimeconfig.json
+C:\Users\WIN10\Desktop\DIO\Formação .NET Developer\Explorando a linguagem C#\Projeto Exemplo\bin\Debug\net6.0\Projeto Exemplo.dll
+C:\Users\WIN10\Desktop\DIO\Formação .NET Developer\Explorando a linguagem C#\Projeto Exemplo\bin\Debug\net6.0\ref\Projeto Exemplo.dll
+C:\Users\WIN10\Desktop\DIO\Formação .NET Developer\Explorando a linguagem C#\Projeto Exemplo\bin\Debug\net6.0\Projeto Exemplo.pdb
+C:\Users\WIN10\Desktop\DIO\Formação .NET Developer\Explorando a linguagem C#\Projeto Exemplo\obj\Debug\net6.0\Projeto Exemplo.csproj.AssemblyReference.cache
+C:\Users\WIN10\Desktop\DIO\Formação .NET Developer\Explorando a linguagem C#\Projeto Exemplo\obj\Debug\net6.0\Projeto Exemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WIN10\Desktop\DIO\Formação .NET Developer\Explorando a linguagem C#\Projeto Exemplo\obj\Debug\net6.0\Projeto Exemplo.AssemblyInfoInputs.cache
+C:\Users\WIN10\Desktop\DIO\Formação .NET Developer\Explorando a linguagem C#\Projeto Exemplo\obj\Debug\net6.0\Projeto Exemplo.AssemblyInfo.cs
+C:\Users\WIN10\Desktop\DIO\Formação .NET Developer\Explorando a linguagem C#\Projeto Exemplo\obj\Debug\net6.0\Projeto Exemplo.csproj.CoreCompileInputs.cache
+C:\Users\WIN10\Desktop\DIO\Formação .NET Developer\Explorando a linguagem C#\Projeto Exemplo\obj\Debug\net6.0\Projeto Exemplo.dll
+C:\Users\WIN10\Desktop\DIO\Formação .NET Developer\Explorando a linguagem C#\Projeto Exemplo\obj\Debug\net6.0\ref\Projeto Exemplo.dll
+C:\Users\WIN10\Desktop\DIO\Formação .NET Developer\Explorando a linguagem C#\Projeto Exemplo\obj\Debug\net6.0\Projeto Exemplo.pdb
+C:\Users\WIN10\Desktop\DIO\Formação .NET Developer\Explorando a linguagem C#\Projeto Exemplo\obj\Debug\net6.0\Projeto Exemplo.genruntimeconfig.cache
